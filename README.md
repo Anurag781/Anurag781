@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Anurag Thakur
-**Full Stack Developer || Crafting seamless digital experiences with React.js & Node.js. Enthusiastic about clean code, Tailwind CSS, and the future of web tech.*
+Full Stack Developer || Crafting seamless digital experiences with React.js & Node.js. Enthusiastic about clean code, Tailwind CSS, and the future of web tech.
 
 Email Me 👉 ✉️ **itsanuragofficial7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
