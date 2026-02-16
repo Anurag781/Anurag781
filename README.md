@@ -3,7 +3,7 @@ Full Stack Developer || Crafting seamless digital experiences with React.js & No
 
 Email Me 👉 ✉️ **itsanuragofficial7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** AI-Powered Interview Platform
 - 🌱 **I’m currently learning:** Advanced System Design and integrating AI-driven APIs into web applications.
 - 👯 **I’m looking to collaborate on:** Open-source React components or innovative Full Stack projects that push the boundaries of modern UI.
 - 🤔 **I’m looking for help with:** Mastering complex backend scaling and cloud deployment strategies on AWS/Vercel.
