@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anurag Thakur
 
-### 🚀 Full Stack Developer | MERN Stack | AI-Powered Web Applications
+### 🚀 AI & Full Stack Development Enthusiast | MERN Stack | React.js | Node.js | JavaScript | OpenAI | Building Intelligent Web Applications
 
 Building scalable, high-performance web applications with **React.js, Node.js, MongoDB, Next.js, and Generative AI**.
 
